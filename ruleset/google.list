@@ -1,0 +1,12 @@
+# > Google Search
+DOMAIN-KEYWORD,www.google.
+
+# > Google Drive
+DOMAIN-SUFFIX,docs.google.com
+DOMAIN-SUFFIX,drive.google.com
+DOMAIN-SUFFIX,googledrive.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN,www.googleapis.com
+
+# > Google Voice
+DOMAIN,lens.l.google.com
