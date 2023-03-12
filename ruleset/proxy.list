@@ -1,4 +1,25 @@
 # all need proxy
+DOMAIN-SUFFIX,tw
+DOMAIN-KEYWORD,google
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,ampproject.org
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,facebook
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-KEYWORD,twitter
+DOMAIN-KEYWORD,instagram
+DOMAIN-KEYWORD,dropbox
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-KEYWORD,blogspot
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,oculuscdn.com
+DOMAIN-SUFFIX,oculus.com
+DOMAIN-KEYWORD,whatsapp
+DOMAIN-SUFFIX,letsencrypt.org
+DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,ytimg.com
 
 DOMAIN-SUFFIX,9cache.com
 DOMAIN-SUFFIX,9gag.com
@@ -200,8 +221,6 @@ DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,admob.com
 DOMAIN-SUFFIX,adsense.com
 DOMAIN-SUFFIX,advertisercommunity.com
-DOMAIN-SUFFIX,ampproject.org
-DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,androidify.com
 DOMAIN-SUFFIX,androidtv.com
 DOMAIN-SUFFIX,api.ai
@@ -238,7 +257,6 @@ DOMAIN-SUFFIX,webrtc.org
 DOMAIN-SUFFIX,widevine.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,zynamics.com
-DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,.blogspot.
 DOMAIN-SUFFIX,goog
 # > Apple
@@ -319,17 +337,13 @@ DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,f8.com
 DOMAIN-SUFFIX,facebookmail.com
 DOMAIN-SUFFIX,fb.com
-DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fb.watch
 DOMAIN-SUFFIX,fbaddins.com
-DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-SUFFIX,fbworkmail.com
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,m.me
 DOMAIN-SUFFIX,messenger.com
-DOMAIN-SUFFIX,oculus.com
-DOMAIN-SUFFIX,oculuscdn.com
 DOMAIN-SUFFIX,readyatdawn.com
 DOMAIN-SUFFIX,rocksdb.org
 DOMAIN-SUFFIX,whatsapp.com
@@ -406,7 +420,6 @@ DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,tweetdeck.com
 DOMAIN-SUFFIX,twimg.co
-DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twitter.jp
@@ -431,7 +444,6 @@ DOMAIN,search.yahoo.co.jp
 # > Yandex
 DOMAIN-SUFFIX,yadi.sk
 DOMAIN,disk.yandex.com
-
 # (Region-Restricted Access Denied)
 DOMAIN-SUFFIX,aicoin.com
 DOMAIN-SUFFIX,aimoon.com
@@ -441,7 +453,6 @@ DOMAIN-SUFFIX,terabox.com
 DOMAIN-SUFFIX,zaobao.com.sg
 DOMAIN,addons.mozilla.org
 DOMAIN,wego.here.com
-# > Alphabet
 DOMAIN-SUFFIX,go.dev
 DOMAIN-SUFFIX,golang.org
 # ---(Apple)---
@@ -467,7 +478,6 @@ DOMAIN,news-edge.apple.com
 DOMAIN,news-events.apple.com
 DOMAIN,apple.comscoreresearch.com
 # ------
-# > Microsoft
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,licdn.com
